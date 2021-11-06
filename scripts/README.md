@@ -10,13 +10,7 @@ Z
   adverbs
   conjunction
   interjection
-
-```
-Z
-  nouns
-  pronouns
-  adjectives
-  adverbs
+  
 ```
 
 Result:
