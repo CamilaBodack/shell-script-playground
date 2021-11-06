@@ -2,7 +2,7 @@
 
 ## Whats it solves ?
 
-That script was used in a machine learning project were was needed to organize the 'parts of speech' in organized folders and subfolders. Something like this:
+That script was used in a project were was needed to organize the 'parts of speech' in organized folders and subfolders. Something like this:
 
 ```
 A
