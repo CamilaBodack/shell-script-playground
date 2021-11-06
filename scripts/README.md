@@ -2,24 +2,15 @@
 
 ## Whats it solves ?
 
-That script was used in a machine learning project were was needed to organize the 'parts of speech' in organized folders and subfolders. Something like this:
+That script was created to organize folders and subfolders in grammatical components (nouns, verbs, adverbs ...) and identify in files to which subfolder they pertence and move them to the right place. Something like this:
 
 ```
-A
-  nouns
-       [noun files go here]
-  pronouns
-       [pronoun files go here]
+Z 
   adjectives
-       [adjective files go here]
   adverbs
-       [adverb files go here]
-  preposition
-        [preposition files go here]
   conjunction
-        [conjunction files go here]
-interjection
-        [interjection files go here]
+  interjection
+  ...
 
 ```
 
