@@ -1,4 +1,4 @@
-# About organize-folders :file_folder:
+# About organize-folders script :file_folder:
 
 ## Whats it solves ?
 
