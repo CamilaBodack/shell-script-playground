@@ -6,9 +6,8 @@ That script was created to organize folders and subfolders in grammatical compon
 
 ```
 Z 
-  adjectives [all adjectives files go to that folder]
-  adverbs [all adverbs files go to that folder]
-  conjunction [all conjunction files go to that folder]
+  adjectives [all adjectives starting with letter Z go to that folder]
+  adverbs [all adverbs starting with letter Z go to that folder]
   interjection [...]
   ...
 
