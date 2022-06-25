@@ -8,7 +8,7 @@
 # 6. Modelo da CPU                                               #
 # 7. Total de memória RAM                                        #
 # 8. Partições                                                   #
-# Obs: Utilizado em máquinas Linux - Ubuntu utilizando idioma PT #                            #
+# Obs: Utilizado em máquinas Linux - Ubuntu utilizando idioma PT #                            
 ##################################################################
 
 # Extrações
