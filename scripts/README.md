@@ -16,3 +16,19 @@ Z
 Result:
 
 <img src="../imgs/result-organize-folder-script.png">
+
+
+# Scan-machine
+
+Script that extracts:
+
+- Machine's name
+- Actual date
+- SO Installation's date
+- Kernel version
+- CPUs qty
+- CPUs model
+- Total available RAM
+- Partitions
+
+The results are displayed in command line.
