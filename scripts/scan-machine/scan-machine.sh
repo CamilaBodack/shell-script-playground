@@ -26,11 +26,6 @@ PARTICOES=$(cat /proc/partitions)
 
 printf "\e[1;97m\n\n============ 📜 Relatório Atual da Máquina: $MAQUINA 📜 ============\n\n\e[0m"
 printf "\e[1;97m      
-  _____________________________________________________________
- /  \                                                      /   \                
-|=O==|====================================================|==O==|=
-|\__/______________________________________________________\___/ 
-  
   ◽Data: \e[0m$DATA_ATUAL                                                  
   ◽\e[1;97mNome da máquina: \e[0m $MAQUINA                                              
   ◽\e[1;97mData de instalação SO: \e[0m $DATA_OS_INSTALADO                              
