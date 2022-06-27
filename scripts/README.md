@@ -32,3 +32,11 @@ Script that extracts:
 - Partitions
 
 The results are displayed in command line.
+
+# Basic Greetings
+
+Display hour/minuts/seconds period info and changes phrase according to extracted data.
+
+# Backup 
+
+Create /home/user backup. If a recent backup exists (less than 7 days), a new copy is optional.
