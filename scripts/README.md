@@ -18,7 +18,7 @@ Result:
 <img src="../imgs/result-organize-folder-script.png">
 
 
-# Scan-machine
+# Scan-machine-and-os-data
 
 Script that extracts:
 
@@ -32,6 +32,11 @@ Script that extracts:
 - Partitions
 
 The results are displayed in command line.
+
+# Scan-users
+
+Search for regular users in OS.
+Return de UID, username and home dir.
 
 # Basic Greetings
 
